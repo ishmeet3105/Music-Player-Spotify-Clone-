@@ -165,7 +165,7 @@ margin: 0 13px;
     
 .songlist{
     padding-left: 15px;
-    font-size: 10px;
+    font-size: 12px;
 
     }
     .du{
@@ -186,6 +186,12 @@ margin: 0 13px;
     }
     .icons{
         margin-top: 7px;
+    }
+    .container{
+        width: 90%;
+    }
+    .about-container{
+        width: 90%;
     }
     
 
