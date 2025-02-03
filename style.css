@@ -167,8 +167,26 @@ margin: 0 13px;
     padding-left: 15px;
     font-size: 10px;
 
-    };
-
+    }
+    .du{
+        position: absolute;
+        right: 20vw;
+        padding-top: 80px;
+        font-family: "Kanit";
+        font-size: 12px;
+        
+    }
+    .songinfo{
+        position: absolute;
+        left: 10vw;
+        padding-top: 80px;
+        font-family: "Kanit";
+        font-size: 12px;
+    
+    }
+    .icons{
+        margin-top: 7px;
+    }
     
 
    
