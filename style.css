@@ -213,6 +213,18 @@ margin: 0 13px;
         margin: 0 23px;
         border-radius: 7px;
     }
+    .about-container p{
+        font-family: "Montserrat", serif;
+        color: whitesmoke;
+        padding-top: 20px;
+        letter-spacing: 2px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-right: 10PX;
+        padding-bottom: 20px;
+    
+    }
+    
     
 
    
