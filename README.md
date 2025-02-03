@@ -74,5 +74,3 @@ The `script.js` file includes:
 ## Conclusion
 This Spotify Clone is a great way to understand web development concepts, especially working with audio elements in JavaScript. Future improvements can turn it into a fully functional music streaming service.
 
-## License
-This project is open-source and available under the MIT License.
